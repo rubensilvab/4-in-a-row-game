@@ -1,0 +1,13 @@
+﻿  Origem.cpp
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(197,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(427,73): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(428,82): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(483,63): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(523,73): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(551,69): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(552,78): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(591,59): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(1055,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(750): warning C4715: 'Board::check_cin': nem todos os caminhos de controle retornam um valor
+C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\Project_w_classes\Origem.cpp(787): warning C4715: 'Board::check_row_to_put': nem todos os caminhos de controle retornam um valor
+  Project_w_classes.vcxproj -> C:\Users\ruben\Documents\ENGENHARIA BIOMÉDICA\Rúben\5ºano\EDA\Project_w_classes\x64\Debug\Project_w_classes.exe

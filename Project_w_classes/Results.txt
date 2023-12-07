@@ -1,0 +1,69 @@
+15-12-2022 / 20:41:37 - 1)ruben vs 2)ze vencedor:ruben
+15-12-2022 / 23:41:13 - 1)koko vs 2)kll vencedor:koko
+15-12-2022 / 23:54:08 - 1)nhnh vs 2)CPU vencedor:nhnh
+16-12-2022 / 01:31:07 - 1)dede vs 2)CPU vencedor:Draw
+16-12-2022 / 01:46:52 - 1)ruben vs 2)CPU vencedor:ruben
+16-12-2022 / 17:02:52 - 1)koko vs 2)CPU vencedor:CPU
+16-12-2022 / 22:51:20 - 1)ruben vs 2)CPU vencedor:ruben
+16-12-2022 / 22:53:49 - 1)ruben vs 2)CPU vencedor:ruben
+16-12-2022 / 22:58:35 - 1)nhnh vs 2)CPU vencedor:CPU
+16-12-2022 / 22:59:51 - 1)nini vs 2)CPU vencedor:CPU
+16-12-2022 / 23:05:58 - 1)mkm vs 2)CPU vencedor:mkm
+17-12-2022 / 00:20:32 - 1)njnj vs 2)CPU vencedor:CPU
+19-12-2022 / 20:21:18 - 1)tt vs 2)CPU vencedor:tt
+20-12-2022 / 03:14:50 - 1)njnj vs 2)CPU vencedor:CPU
+20-12-2022 / 03:17:19 - 1)lplp vs 2)CPU vencedor:CPU
+20-12-2022 / 03:31:17 - 1)njnj vs 2)CPU vencedor:njnj
+20-12-2022 / 14:53:36 - 1)saraxxxxx vs 2)ruben vencedor:ruben
+20-12-2022 / 14:57:31 - 1)sarax vs 2)CPU vencedor:sarax
+20-12-2022 / 15:01:09 - 1)sarax vs 2)ruben vencedor:ruben
+20-12-2022 / 15:05:31 - 1)sarax vs 2)CPU vencedor:sarax
+20-12-2022 / 18:59:23 - 1)bgb vs 2)CPU vencedor:bgb
+20-12-2022 / 19:11:03 - 1)mk vs 2)CPU vencedor:CPU
+20-12-2022 / 19:15:17 - 1)lo vs 2)CPU vencedor:CPU
+20-12-2022 / 19:23:06 - 1)bhb vs 2)CPU vencedor:CPU
+20-12-2022 / 19:26:52 - 1)gttttt vs 2)CPU vencedor:CPU
+20-12-2022 / 19:29:06 - 1)ruben vs 2)CPU vencedor:CPU
+20-12-2022 / 21:40:06 - 1)‡p vs 2)CPU vencedor:CPU
+20-12-2022 / 21:43:52 - 1)kok vs 2)CPU vencedor:CPU
+20-12-2022 / 22:18:41 - 1)loo vs 2)CPU vencedor:loo
+20-12-2022 / 22:48:04 - 1)ruben vs 2)CPU vencedor:CPU
+20-12-2022 / 23:08:20 - 1)ruben vs 2)CPU vencedor:CPU
+20-12-2022 / 23:23:14 - 1)njn vs 2)CPU Hard vencedor:CPU Hard
+20-12-2022 / 23:30:18 - 1)nuu vs 2)CPU Intermediate vencedor:CPU Intermediate
+20-12-2022 / 23:32:22 - 1)tyt vs 2)CPU Hard vencedor:CPU Hard
+20-12-2022 / 23:46:07 - 1)njnj vs 2)bhgv vencedor:Draw
+20-12-2022 / 23:50:45 - 1)ju vs 2)CPU Hard vencedor:Draw
+20-12-2022 / 23:55:15 - 1)mkk vs 2)CPU Hard vencedor:Draw
+21-12-2022 / 00:00:51 - 1)lol vs 2)CPU Hard vencedor:CPU Hard
+21-12-2022 / 00:21:03 - 1)tyt vs 2)CPU Hard vencedor:tyt
+21-12-2022 / 00:57:56 - 1)nunu vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 15:28:34 - 1)Mami vs 2)Ruben vencedor:Ruben
+23-12-2022 / 15:35:33 - 1)mami vs 2)ruben vencedor:ruben
+23-12-2022 / 15:40:28 - 1)mami vs 2)zaza vencedor:zaza
+23-12-2022 / 15:47:06 - 1)mami vs 2)zaza vencedor:zaza
+23-12-2022 / 15:51:11 - 1)ruben vs 2)mami vencedor:ruben
+23-12-2022 / 15:54:12 - 1)mami vs 2)CPU Amador vencedor:mami
+23-12-2022 / 16:03:55 - 1)mami vs 2)CPU Intermediate vencedor:mami
+23-12-2022 / 19:02:09 - 1)ruben vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 19:32:19 - 1)njn vs 2)CPU Hard vencedor:Draw
+23-12-2022 / 19:35:32 - 1)ruben vs 2)CPU Hard vencedor:Draw
+23-12-2022 / 19:37:39 - 1)ana vs 2)CPU Hard vencedor:ana
+23-12-2022 / 19:40:30 - 1)mkm vs 2)CPU Hard vencedor:mkm
+23-12-2022 / 19:41:43 - 1)cdcd vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 19:43:06 - 1)vfvf vs 2)CPU Intermediate vencedor:CPU Intermediate
+23-12-2022 / 19:44:12 - 1)ruben vs 2)CPU Intermediate vencedor:CPU Intermediate
+23-12-2022 / 19:46:12 - 1)ruben vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 19:47:57 - 1)ruben vs 2)CPU Hard vencedor:ruben
+23-12-2022 / 19:49:25 - 1)ana vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 19:50:30 - 1)ruben vs 2)CPU Hard vencedor:ruben
+23-12-2022 / 19:55:30 - 1)ana vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 19:58:45 - 1)ruben vs 2)CPU Hard vencedor:ruben
+23-12-2022 / 20:58:21 - 1)ruben vs 2)CPU Hard vencedor:Draw
+23-12-2022 / 21:00:56 - 1)^ vs 2)CPU Hard vencedor:^
+23-12-2022 / 21:11:20 - 1)ff vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 22:21:08 - 1)mkm vs 2)CPU Hard vencedor:mkm
+23-12-2022 / 22:24:10 - 1)ruben vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 22:36:10 - 1)lulu vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 22:42:55 - 1)njnj vs 2)CPU Hard vencedor:CPU Hard
+23-12-2022 / 23:05:16 - 1)ruben vs 2)CPU Intermediate vencedor:CPU Intermediate
