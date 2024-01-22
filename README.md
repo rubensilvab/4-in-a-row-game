@@ -28,4 +28,4 @@ To run the game on your local machine, follow these steps:
 
 1. Clone the repository to your computer.
 2. Open the project in your preferred C++ development environment.
-3. Compile and run the main file ([Origem.cpp](Project_w_classes/x64/Debug/Origem.cpp)).
+3. Compile and run the main file ([Origem.cpp](Project_w_classes/Origem.cpp)).
